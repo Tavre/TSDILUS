@@ -1,7 +1,7 @@
 # TSDILUS
-一个矢量插画图库 | This is a vector illustration library.
-画风较为抽象 | The illustration style is relatively abstract.
-支持png和svg格式 | Supports PNG and SVG formats.
+一个矢量插画图库 | This is a vector illustration library. \n
+画风较为抽象 | The illustration style is relatively abstract.  \n
+支持png和svg格式 | Supports PNG and SVG formats.  \n
 
 ![Invoice](https://github.com/user-attachments/assets/5c21ac41-667a-4e00-ab1e-0b1a79307829)
 ![News](https://github.com/user-attachments/assets/f48baded-f253-41ea-9653-5de34f026930)
